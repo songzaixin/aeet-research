@@ -17,16 +17,6 @@
 
 ---
 
-## City University of Hong Kong (CityU) - *Postdoctoral Fellow*
-
-### Sep-2021 ~ Apr-2022
-
-***Research Team from***: Chunhua Liu (Associate Professor)
-
-***Research Interests***: Design, Optimization, Multi-Physical-Domain Analysis, Control Algorithm for Highly Dense Aircraft Propulsion Electric Motors, Cooling Laws of Motor Systems with Thermal Experiment. 
-
----
-
 ## City University of Hong Kong (CityU) - *PhD*
 
 ### Sep-2018 ~ Aug-2021
@@ -72,10 +62,12 @@
 <img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
 </div>
 
+
 ---
 
 Created by *Zaixin Song*
 
 Contact Me: 
+
 * Email: zaixin.song@cityu.edu.hk
 * WeChat: song_zaixin
