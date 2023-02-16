@@ -1,71 +1,54 @@
-# Homepage  |  Dr. Zaixin Song
-
-<div align=center><img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/icon1.jpg" alt="image-icon1" style="zoom:25%;" /></div>
-
-<center><font size=12> Zaixin SONG </font></center>
-
-# More About Me, Please See
-
-| [Home](https://songzaixin.github.io/cv/)  | [Education](https://songzaixin.github.io/cv-education/) | [Experience](https://songzaixin.github.io/cv-experience/) | [Project](https://songzaixin.github.io/cv-project/) | [Outcome](https://songzaixin.github.io/cv-outcome/) | [Activity](https://songzaixin.github.io/cv-activity/) | [Team](https://songzaixin.github.io/cv-team/) |
+# Applied Energy & Electromagnetic Technology (AEET) Lab
 
 ---
 
----
-
-
-# My Education Background
+| [Home](https://songzaixin.github.io/aeet-home/)  | [Research](https://songzaixin.github.io/aeet-research/) | [Outcome](https://songzaixin.github.io/aeet-outcome/) | [Teaching](https://songzaixin.github.io/aeet-teaching/) | [People](https://songzaixin.github.io/aeet-people/) | [Activity](https://songzaixin.github.io/aeet-activity/) | [Join Us](https://songzaixin.github.io/aeet-joinus/) |
 
 ---
 
-## City University of Hong Kong (CityU) - *PhD*
+# Research Interests
 
-### Sep-2018 ~ Aug-2021
+- <font color=blue><b><u>Electric Machinery:</u></b></font> High-power-density machines, High-torque-density machines, Compound machine topologies; Magnetic field analysis; Electric machine practices
 
-(GPA: 3.9/4.3) 
+- <font color=blue><b><u>Smart Transport Propulsion:</u></b></font> Transportation electrification; Electric vehicle traction, Power-split hybrid electric vehicle traction; Aircraft electric propulsion, Sustainable Hybrid electric aircraft propulsion; Engine starter/generator
 
-***Supervisor***: Chunhua Liu (Associate Professor)
+- <font color=blue><b><u>Sustainable Energy Conversion and Management:</u></b></font> Integration of renewable and sustainable energy sources; Thermoelectric generator, Wind power generation, Tidal power generation; Intelligent energy management strategies
 
-***Research Interests***: Design and Control of Permanent Magnet Machines for Aircraft Propulsion, Design and Control of High-Speed and Multi-Phase Motors, Design and Control of In-wheel Motors and Traction Motors for Modern New Energy Vehicle, Renewable Energy Generation and Conversion Devices, Multi-Physical-Domain Modelling, NVH Analysis and Test for PM Machines.
-
----
-
-## Harbin Institute of Technology (HIT) - *Master of Engineering*
-
-### Sep-2016 ~ Jul-2018
-
-(GPA: 86.78/100; Ranking: 1/169) 
-
-***Supervisor***: Feng Chai (Professor)
-
-***Research Interests***: Modern PM Machine Design, Automotive In-wheel Motor Design, Modular and Fault-Tolerant Design, Multi-Physics Modelling and NVH Analysis.
-
----
-
-## Harbin Institute of Technology (HIT) - *Bachelor of Engineering*
-
-### Sep-2012 ~ Jul-2016
-
-(GPA: 92.22/100; Ranking: 10/283)
-
-***Major courses***: Electric Circuit, Electric Machinery, Motor Design and CAD, Small & Special Electric Machinery, Motor Drive Systems and Control, Mechanics, C Programming Language. 
-
----
-
-
-# Related Organizations
+- <font color=blue><b><u>Smart Manufacturing and Robotics:</u></b></font> Robot actuation, Powertrain and actuator design, Smart sensing and control of robotic systems, High-precision machining tools and processes, Additive manufacturing of electric motors
 
 <div align=left>
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
-<img src="https://github.com/songzaixin/cv/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/main/image/research-airtrans.png" alt="image-1" style="zoom:50%;" />
 </div>
+
+
+# Specific Expertise
+
+- <font color=blue><b><u>Electric Motor Design & Control:</u></b></font> Permanent magnet synchronous machines, Slotless machines, Disc-type machines, Flux-modulated machines, Magnetic-geared machines, Permanent magnet vernier machines, Axial-flux machines, Transverse-flux machines, Multi-port machines; Linear machines, Wireless motor drives; Special motor control, Unique motor drive topologies and control, Multi-motor coordinative control
+
+- <font color=blue><b><u>Multiphysics Design and System-level Design:</u></b></font> Energy-efficiency improvement, Multi-objective optimization with intelligent algorithms, Human-machine collaborative machine design, Topology optimization; Analytical modeling, Semi-analytical modeling, Hybrid analytical modeling; Multi-physics modeling, Electromechanical vibration & acoustic noise analysis, NVH performance evaluation, Cooling design and thermal analysis
+
+<div align=left>
+<img src="https://github.com/songzaixin/aeet-home/raw/main/image/research-multiphysics.png" alt="image-1" style="zoom:100%;" />
+</div>
+
 
 ---
 
-Created by *Zaixin Song*
+Related Organizations
 
-Contact Me: 
-* Email: zaixin.song@cityu.edu.hk
-* WeChat: song_zaixin
+<div align=left>
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-polyu.png" alt="image-cityu" style="zoom:15%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-cityu.png" alt="image-cityu" style="zoom:10%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hit.png" alt="image-hit" style="zoom:40%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-hku.png" alt="image-hku" style="zoom:5%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-nsfc.png" alt="image-nsfc" style="zoom:30%;" />
+<img src="https://github.com/songzaixin/aeet-home/raw/zxs-patch-cv/image/logo-ugc.png" alt="image-ugc" style="zoom:7.5%;" />
+</div>
+
+
+
+---
+
+© 2022 by Zaixin Song. All rights reserved. 
+Last Update: Feb-2023
+
